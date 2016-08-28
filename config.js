@@ -23,7 +23,7 @@ module.exports = {
   redis_db: 0,
   redis_password: '',
 
-  mail_form: '870898995@qq.com',
+  mail_form: '89519078@qq.com',
   mail_pass: 'xrowkkyebmzabaic',
 
 
